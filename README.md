@@ -5,8 +5,7 @@ Visualizador web interactivo de interpolacion polinomial usando el metodo de New
 ## Integrantes
 
 - **Nahomi Humerez**
-- **Benja**
-- **Isamu**
+- **Isamu Nikaldo**
 
 ## Proposito
 
