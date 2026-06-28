@@ -6,6 +6,7 @@ Visualizador web interactivo de interpolacion polinomial usando el metodo de New
 
 - **Nahomi Humerez**
 - **Isamu Nikaldo**
+- **Benja**
 
 ## Proposito
 
